@@ -1,0 +1,16 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojAssemblyReference.cache
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CopyComplete
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb

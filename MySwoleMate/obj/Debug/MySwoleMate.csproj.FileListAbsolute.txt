@@ -1,0 +1,54 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\csc.exe
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\vbc.exe
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.dll.config
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Debug\MySwoleMate.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Debug\MySwoleMate.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.BLL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.DAL.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.BLL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.DAL.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\bin\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate\obj\Debug\MySwoleMate.csprojResolveAssemblyReference.cache
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.dll.config
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.BLL.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.Models.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.DAL.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.BLL.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.Models.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\MySwoleMate.DAL.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\obj\Debug\MySwoleMate.csprojAssemblyReference.cache
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\obj\Debug\MySwoleMate.csproj.CoreCompileInputs.cache
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\obj\Debug\MySwoleMate.csproj.CopyComplete
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\obj\Debug\MySwoleMate.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\obj\Debug\MySwoleMate.pdb
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\csc.exe
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\vbc.exe
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jerome T\Desktop\Computer Science Apps\Visual Studio 2019\MySwoleMate Project\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config

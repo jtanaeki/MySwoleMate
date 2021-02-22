@@ -1,0 +1,5 @@
+C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Release\MySwoleMate.Models.dll
+C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Release\MySwoleMate.Models.pdb
+C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.csprojResolveAssemblyReference.cache
+C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.dll
+C:\Users\Joon\Documents\Visual Studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Release\MySwoleMate.Models.pdb

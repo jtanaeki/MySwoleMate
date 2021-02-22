@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/MySwoleMate" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Joon\\Documents\\Visual\ Studio\ 2015\\Projects\\MySwoleMate-Starter\\MySwoleMate\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Joon\\Documents\\Visual\ Studio\ 2015\\Projects\\MySwoleMate-Starter\\MySwoleMate\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MySwoleMateConnectionString-Web.config Connection String" description="" value="Data Source=JOON-WORK;Initial Catalog=MySwoleMate;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Joon\\Documents\\Visual\ Studio\ 2015\\Projects\\MySwoleMate-Starter\\MySwoleMate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MySwoleMateConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
