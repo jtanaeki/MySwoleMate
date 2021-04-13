@@ -25,7 +25,7 @@ git clone https://github.com/jtanaeki/MySwoleMate.git
 ```
 
 ### Tables in Database
-![Image of Database Tables](#)
+![Image of Database Tables](https://user-images.githubusercontent.com/55217672/114484461-45218d00-9bd8-11eb-88f0-3a76c9eb9057.png)
 
 ## Running the Application
 The following instructions will help you get the program running via your preferred IDE or from the command line.
