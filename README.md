@@ -1,7 +1,7 @@
 # MySwoleMate <img align="right" width="300" height="200" src="MySwoleMate/Images/weights.jpg">
 ### Personal Workout Management System
 <br>
-<a href="https://www.contributor-covenant.org/">
+<a href="CODE_OF_CONDUCT.md">
     <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" />
 </a>
 
