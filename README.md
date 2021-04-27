@@ -1,4 +1,4 @@
-# MySwoleMate <img align="right" width="300" height="200" src="MySwoleMate/Images/weights.jpg">
+# MySwoleMate 🏋🏼‍♂️ <img align="right" width="300" height="200" src="MySwoleMate/Images/weights.jpg">
 ### Personal Workout Management System
 <br>
 <a href="CODE_OF_CONDUCT.md">
