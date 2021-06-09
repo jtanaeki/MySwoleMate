@@ -81,4 +81,4 @@ Please read [Deploy an app to a folder using Visual Studio](https://docs.microso
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
 ## How to Discuss and Contribute
-Some of the best ways to contribute are to try things out, file issues, join in design conversations, and make pull-requests. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before you begin for details on our [code of conduct](CODE_OF_CONDUCT.md), as well as the process for submitting [pull requests](https://github.com/jtanaeki/MySwoleMate/pulls) to us. Proposals for changes and other issues specific to MySwoleMate can be found [here](https://github.com/jtanaeki/MySwoleMate/issues).
+Some of the best ways to contribute are to try things out, file issues, join in design conversations, and make pull-requests. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before you begin for details on the [code of conduct](CODE_OF_CONDUCT.md), as well as the process for submitting [pull requests](https://github.com/jtanaeki/MySwoleMate/pulls). Proposals for changes and other issues specific to MySwoleMate can be found [here](https://github.com/jtanaeki/MySwoleMate/issues).
