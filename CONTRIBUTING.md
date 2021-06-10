@@ -1,5 +1,5 @@
 # Contributing
-When contributing to this repository, please first discuss the change you wish to make via [issue](https://github.com/jtanaeki/MySwoleMate/blob/main/CONTRIBUTING.md#making-proposals-and-joining-discussions), email, or any other method with the owner of this repository before making a change.
+When contributing to this repository, please first discuss the change you wish to make via issue (see [_Making Proposals and Joining Discussions_](https://github.com/jtanaeki/MySwoleMate/blob/main/CONTRIBUTING.md#making-proposals-and-joining-discussions), email, or any other method with the owner of this repository before making a change.
 
 Note that there is a [code of conduct](https://github.com/jtanaeki/MySwoleMate/blob/main/CONTRIBUTING.md#contributing-process) associated with this project. Please follow it with all your interactions with the project.
 
